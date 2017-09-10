@@ -3,11 +3,7 @@ package io.github.gitbucket.runner.controller
 import gitbucket.core.controller.ControllerBase
 import org.json4s.JValue
 
-//import org.scalatra.json._
-//import org.json4s._
 import org.json4s.JsonDSL._
-//import org.json4s.Extraction.decompose
-//import org.json4s.jackson.JsonMethods.{parse, compact}
 
 class RunnerController extends ControllerBase {
 
